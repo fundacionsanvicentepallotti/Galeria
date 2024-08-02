@@ -1,3 +1,7 @@
+---
+youtubeId: [putYourIDHere](https://www.youtube.com/embed/X9PhXlYalk4)
+---
+
 # Hola Video
 <div class="embed-container">
   <iframe
