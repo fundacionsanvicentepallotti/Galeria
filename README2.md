@@ -1,16 +1,3 @@
-# Hola Video
-<div class="embed-container">
-  <iframe
-      src="https://www.youtube.com/embed/{{ include.id }}"
-      width="700"
-      height="480"
-      frameborder="0"
-      allowfullscreen="true">
-  </iframe>
-</div>
-
-
-
 # jekyll-embed-video
 
 Embed YouTube, Vimeo, Twitch, Facebook, Instagram, Twitter, TikTok, Streamable, Google Drive videos/clips and more in Jekyll webpages without a plugin. If you are hosting your webpage using GitHub pages, you can't use third party plugins. Here is a method to use "includes" instead of plugins.
